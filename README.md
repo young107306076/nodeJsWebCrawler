@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # test_repo
 爬蟲範例ㄏㄏ
 
@@ -9,3 +10,6 @@
 [搞笑影片](https://youtube.com.tw "你被騙了")
 
 git clone README.md git 的 url => 就可以複製備份到電腦上
+=======
+# nodeJsWebCrawler
+>>>>>>> e41555ba7c68a5c65d2c563fb5da4be990feb2d0
